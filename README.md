@@ -7,3 +7,5 @@ Technology Used:
 1. Backend: Java Springboot utilizing Mybatis-plus for database connectivity with Alibaba's DruidDataSource and Swagger tools for user and restaurant configuration.
 
 2. Frontend: CSS and JavaScript are utilized to layout the website design with an additional custom toolbar to provide options such as title background color, list layout distribution, and font.
+
+I want to add a gif starting animation（just for fun^^）

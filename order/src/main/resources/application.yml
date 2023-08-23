@@ -1,4 +1,6 @@
 spring:
+  banner:
+      location: banner.txt
   datasource:
     username: root
     password: 123456
